@@ -1,8 +1,7 @@
 # platform4j-arch
 
-The Platform4J is a open source fast build Java development platform which is the best suitable for fast building the distributed architecture system.
-
 ## Introduce
+The Platform4J is a open source fast build Java development platform which is the best suitable for fast building the distributed architecture system.  
 The Platform4j-arch is the base project of the Platform4J, it provides the base framework reference and the most frequency used utils, the artifacts it provides as below:
 * arch-base: provides essential frameworks like Spring Boot framwwork, Dubbo, ZooKeeper, aspectj.
 * arch-Boot: a boot framework for dubbo service, include arch-base and Kafka framework.
